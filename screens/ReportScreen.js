@@ -21,7 +21,6 @@ const reportData = [
       { label: 'Danh mục mặt hàng' },
       { label: 'Mặt hàng bán chạy', route: 'TopProducts' }, // 👈 gắn route
       { label: 'Combo bán chạy' },
-      { label: 'Nhóm lựa chọn' },
       { label: 'Mặt hàng đã hủy' },
       { label: 'Combo đã hủy' },
     ],
@@ -47,7 +46,6 @@ const reportData = [
     icon: 'gift',
     children: [
       { label: 'Chương trình khuyến mãi' },
-      { label: 'Báo cáo chiết khấu' },
     ],
   }
 ];
